@@ -15,7 +15,7 @@ function createWindowMain(){
             contextIsolation: false
         }        
     });
-    //mainWindow.setMenuBarVisibility(false)
+    mainWindow.setMenuBarVisibility(false)
     mainWindow.loadURL(`file://${__dirname}/index.html`)
 };
   
