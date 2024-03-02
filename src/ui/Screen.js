@@ -9,7 +9,7 @@ export default class NotesView {
         this.root.innerHTML = `
                     <div class="header">
                         <div class="triangle">▽</div>
-                        <div class="name">NoteQuill</div>
+                        <div class="name">NoteQube</div>
                         
                     </div>
                     <div class="notes__sidebar">
