@@ -2,7 +2,7 @@
 ![Preview-Screens](image2.png)
 
 
-# NoteQuill
+# NoteQube
 My notes and mind map app made in javascript with localStorage
 
 # Arquivo executavel
