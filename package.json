@@ -4,7 +4,7 @@
     "electron-builder": "^24.12.0",
     "nodemon": "^3.0.3"
   },
-  "name": "notequill",
+  "name": "noteqube",
   "icon": "src/ui/imgs/icon.png",
   "version": "1.0.0",
   "main": "src/index.js",
