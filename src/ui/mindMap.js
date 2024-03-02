@@ -207,7 +207,7 @@ document.getElementById('saveCanvas').addEventListener('click', () => {
         const image = canvas.toDataURL('image/png');
         const link = document.createElement('a');
         link.href = image;
-        link.download = 'myMindMap-NoteQuill.png';
+        link.download = 'myMindMap-NoteQube.png';
         link.click();
     });
   
