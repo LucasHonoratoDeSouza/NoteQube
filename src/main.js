@@ -8,7 +8,7 @@ function createWindowMain(){
         width: 1700,
         height: 900,
         movable: true,
-        title: 'NoteQuill',
+        title: 'NoteQube',
         icon: __dirname + '/ui/imgs/icon.png',
         webPreferences: {
             nodeIntegration: true,
